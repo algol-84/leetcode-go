@@ -25,7 +25,7 @@ Constraints:
 Only one valid answer exists.
 */
 
-package main
+package leetcode
 
 import (
 	"fmt"
